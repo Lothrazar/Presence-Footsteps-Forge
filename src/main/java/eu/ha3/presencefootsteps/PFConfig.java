@@ -11,7 +11,7 @@ public class PFConfig extends JsonFile {
 
     private int volume = 70;
 
-    private int clientPlayerVolume = 100;
+    private int clientPlayerVolume = 50;
     private int otherPlayerVolume = 100;
     private int runningVolumeIncrease = 0;
     private int wetSoundsVolume = 50;
